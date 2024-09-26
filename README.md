@@ -15,17 +15,19 @@ You can install the required libraries by running the following command:
 
 
 File Structure
-.
+
 ├── DSBDA.py               # Main Python script
 ├── README.md              # This README file
 └── assets/                # (Optional) Images, logos, or additional assets for the dashboard
+
 How to Run the Project
 Clone the repository or download the project files.
 
 ```bash
 git clone https://github.com/dvarad20/Cryptocurrency-Predictor.git
-```Navigate to the project directory.
+```
 
+Navigate to the project directory.
 ```bash
 cd Cryptocurrency Predictor\DSBDA
 ```
