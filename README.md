@@ -1,8 +1,13 @@
-'''
-**Cryptocurrency Price Predictor**
-```
 
-This project is a cryptocurrency price predictor dashboard built using Python, Streamlit, and various data analysis libraries. It gathers historical cryptocurrency data using yfinance and makes future predictions using the ARIMA model. The dashboard is interactive and provides visual insights into past and predicted price movements.
+**Cryptocurrency Price Predictor**
+
+
+The goal for this innovative undergrad project is to show how a trained machine model can predict the price of a
+cryptocurrency if we give the right amount of data and computational power. This project represented consecutive
+cryptocurrency prices forecasting method using time series analysis model named ARIMA. Its aim is to reveal the
+advantage of the traditional Autoregressive Integrative Moving Average (ARIMA) model in estimating the future value of
+cryptocurrency by analysing the price time series. It displays a graph with the predicted values.
+Technology Used : Python, Pandas, ARIMA
 
 Features
 Data Collection: Uses yfinance to collect historical cryptocurrency data.
