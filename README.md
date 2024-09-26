@@ -7,19 +7,8 @@ cryptocurrency if we give the right amount of data and computational power. This
 cryptocurrency prices forecasting method using time series analysis model named ARIMA. Its aim is to reveal the
 advantage of the traditional Autoregressive Integrative Moving Average (ARIMA) model in estimating the future value of
 cryptocurrency by analysing the price time series. It displays a graph with the predicted values.
+
 Technology Used : Python, Pandas, ARIMA
-
-Features
-Data Collection: Uses yfinance to collect historical cryptocurrency data.
-Data Visualization: Provides interactive visualizations using Matplotlib and Seaborn.
-Prediction Model: Uses the ARIMA model to predict future prices.
-Web Dashboard: Built using Streamlit for interactive user experience.
-Web Scraping: Fetches additional data using BeautifulSoup and requests.
-Prerequisites
-Make sure you have Python installed (preferably version 3.7 or above).
-
-Required Libraries:
-You can install the required libraries by running the following command:
 
 
 File Structure
