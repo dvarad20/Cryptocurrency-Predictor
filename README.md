@@ -13,12 +13,8 @@ Make sure you have Python installed (preferably version 3.7 or above).
 Required Libraries:
 You can install the required libraries by running the following command:
 
-```bash
-pip install yfinance matplotlib pandas seaborn pillow statsmodels streamlit requests beautifulsoup4
-```
 
 File Structure
-```bash
 .
 ├── DSBDA.py               # Main Python script
 ├── README.md              # This README file
